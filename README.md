@@ -15,3 +15,12 @@ Falaram que ia recebe uma carta registrada do Jurídico deles ate o momento não
 Então recebi por email um documento do jurídico que meu sinistro foi negado por "não ter feito  feito o Boletim de ocorrência do dia e na hora do acidente" sendo que o acidente aconteceu numa área rural sem internet ou telefone celular.
 
 Eu fiz o boletim de ocorrência no dia seguinte como qualquer pessoa normal. 
+
+Aqui nesse repositorio vou colocar toda a documentação do caso  e andamento para as pessoas que quizerem converir. 
+
+
+
+
+Alessandro de Oliveira Binhara
+binhara@azuris.com.br
+41 9 9800 3687
