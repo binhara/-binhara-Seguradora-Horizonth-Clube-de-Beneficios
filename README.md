@@ -28,12 +28,16 @@ Estou sem o carro desde fevereiro e continuo pagando os boletos.
 Aqui nesse repositorio vou colocar toda a documentação do caso  e andamento para as pessoas que quizerem acompanhar.
 https://github.com/binhara/-binhara-Seguradora-Horizonth-Clube-de-Beneficios/blob/main/README.md
 
+Link para o Boletin de Ocorrecia Registrado
+https://github.com/binhara/-binhara-Seguradora-Horizonth-Clube-de-Beneficios/blob/main/Bateu.pdf
 
-
-
+Link para o Documento Recebido da seguradora
+https://github.com/binhara/-binhara-Seguradora-Horizonth-Clube-de-Beneficios/blob/main/NOTIFICA%C3%87%C3%83O%20EXTRAJUDICIAL.pdf
 
 
 
 Alessandro de Oliveira Binhara
+
 binhara@azuris.com.br
+
 41 9 9800 3687
