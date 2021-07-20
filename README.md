@@ -16,7 +16,20 @@ Então recebi por email um documento do jurídico que meu sinistro foi negado po
 
 Eu fiz o boletim de ocorrência no dia seguinte como qualquer pessoa normal. 
 
-Aqui nesse repositorio vou colocar toda a documentação do caso  e andamento para as pessoas que quizerem converir. 
+Ao envio desse documento por email, é impressionante como o telefone e o whatzap voltaram a funcionar. Me mandando mensagen e me ligando para que eu recebe-se o carro batido que estava no patio deles desde o acidente. E começaram a me falar que se eu não recebe-se o carro eles poderiam comecar a cobrar a diária do estacionamento do carro. 
+
+Com isso na semana passada acabei recebendo o carro estou tendo entender a seriedade dessa empresa. 
+
+Pois a justificativa rebida para a negação do pagamento do seguro é  simplemente ridicula na minha opinião, beirando a má fé. 
+
+Solicitei maiores exclarecimentos até o momento somente conversa comigo a atendente que continua a enviar para mim os boletos de pagamento. 
+Estou sem o carro desde fevereiro e continuo pagando os boletos. 
+
+Aqui nesse repositorio vou colocar toda a documentação do caso  e andamento para as pessoas que quizerem acompanhar.
+https://github.com/binhara/-binhara-Seguradora-Horizonth-Clube-de-Beneficios/blob/main/README.md
+
+
+
 
 
 
